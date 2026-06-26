@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/btn_Login'))
 
 WebUI.waitForPageLoad(10)
 
-
+//berhasil
 WebUI.takeScreenshot()
 
 
